@@ -1,9 +1,9 @@
 ---
 permalink: /cv
 layout: single
-#title: "CV"
-author_profile: false
+#title: ""
+author_profile: true
 sitemap: false
 ---
 
-<embed src="https://j-chim.github.io/files/cv.pdf" type="application/pdf" />
+<embed src="https://j-chim.github.io/files/cv.pdf" type="application/pdf"/>
