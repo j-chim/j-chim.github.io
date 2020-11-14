@@ -16,7 +16,7 @@ My long-term goals are to develop **fair**, **privacy-preserving**, and **human-
 * Applied machine learning (healthcare, education)
 * Human-Computer Interaction (how users perceive and interact with technology)
 * Psycholinguistics (L2 acquisition, multilingualism)
-* Integrating explicit and implicit human feedback (e.g., gaze) in NLP 
+* Integrating explicit and implicit human feedback (e.g., gaze) in machine learning models
 
 Prior to starting my PhD, I completed my bachelor's degree at the [University of California, Los Angeles](https://www.ucla.edu/) and my master's degree at the [University of Edinburgh](https://www.ed.ac.uk/).
 
