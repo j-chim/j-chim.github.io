@@ -1,5 +1,5 @@
 ---
-permalink: /cv
+permalink: /cv/
 layout: single
 #title: ""
 author_profile: true
