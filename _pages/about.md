@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year doctoral student at [Queen Mary University of London](http://www.eecs.qmul.ac.uk/). I work on **natural language processing for mental health applications**, with a focus on synthetic data generation and model evaluation.
+I am a first-year doctoral student at [Queen Mary University of London](http://www.eecs.qmul.ac.uk/). I work on **natural language processing for mental health applications**, with a focus on synthetic data generation and evaluation.
 
-My studies are funded by the [Alan Turing Institute](https://www.turing.ac.uk/). I am supervised by Prof. Maria Liakata, who leads the [project](https://www.turing.ac.uk/people/researchers/ai-fellows): "Creating time sensitive sensors from language and heterogeneous user generated content". 
+My studies are funded by the [DeepMind Scholarship Programme](https://deepmind.com/scholarships). I am supervised by Prof. Maria Liakata, who leads the [project](https://www.turing.ac.uk/people/researchers/ai-fellows): "Creating time sensitive sensors from language and heterogeneous user generated content". 
 
 My long-term goals are to develop **fair**, **privacy-preserving**, and **human-centered** language technologies. Broadly speaking, my academic interests include:
 * Applied machine learning (healthcare, education)
