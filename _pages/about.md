@@ -12,14 +12,9 @@ I am a first-year doctoral student at [Queen Mary University of London](http://w
 
 My studies are funded by the [DeepMind Scholarship Programme](https://deepmind.com/scholarships). I am supervised by Prof. Maria Liakata, who leads the [project](https://www.turing.ac.uk/people/researchers/ai-fellows): "Creating time sensitive sensors from language and heterogeneous user generated content". 
 
-Starting in February 2021, I also co-organise the [Data Science for Mental Health Interest Group](turing-ds4mh.github.io) at the Alan Turing Institute, where we run monthly talks and meetings. Currently, the events are hosted online.
+Starting in February 2021, I also co-organise the [Data Science for Mental Health Interest Group](turing-ds4mh.github.io) at the Alan Turing Institute, where we run monthly talks and meetings. 
 
-My long-term goals are to develop **fair**, **privacy-preserving**, and **human-centred** language technologies. Broadly speaking, my academic interests include:
-* Applied NLP (healthcare, education)
-* Human-Computer Interaction (how users perceive and interact with technology)
-* Integrating signals from user behaviour in machine learning models
-* Psycholinguistics (L2 acquisition, multilingualism)
-
+My long-term goals are to develop **fair**, **privacy-preserving**, and **human-centred** language technologies. 
 
 Prior to starting my PhD, I completed my bachelor's degree at the [University of California, Los Angeles](https://www.ucla.edu/) and my master's degree at the [University of Edinburgh](https://www.ed.ac.uk/).
 
