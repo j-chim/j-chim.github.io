@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year doctoral student at Queen Mary University of London. I work on **natural language processing for mental health applications**, with a focus on synthetic data generation, explainability, and evaluation.
+Hi! I am a third year doctoral student at Queen Mary University of London. I work on **natural language processing for mental health applications**, with a focus on synthetic data generation and evaluation.
 
 I am supervised by Prof. Maria Liakata, who leads the project: "[Creating time sensitive sensors from language and heterogeneous user generated content](https://www.turing.ac.uk/people/researchers/ai-fellows)", and jointly supervised by Dr. Julia Ive. My studies are funded by the DeepMind Scholarship. 
 
 I also co-organize the [Data Science for Mental Health Interest Group](https://turing-ds4mh.github.io) at the Alan Turing Institute.
 
-My long-term goals are to develop **fair, human-centered language technologies**. 
+My long-term goals are to develop fair, human-centered, and privacy-preserving language technologies. 
 
 Prior to starting my PhD, I completed my bachelor's degree at the University of California, Los Angeles and my master's degree at the University of Edinburgh.
 
