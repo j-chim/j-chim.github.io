@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an applied researcher working in AI with a focus on NLP. My interests are in evaluation and, more broadly, developing human-centered technologies that can expand how we interact with information and enrich how we think, learn, and collaborate.
+Hi! I am an applied researcher working in AI with a focus on NLP. My interests are in evaluation and, more broadly, developing **human-centered technologies** that can **expand how we interact with information** and **enrich how we think, learn, and collaborate**.
 
-I currently work as an AI Scientist in Matillion, developing agent evaluation. I'm also an affiliated researcher at Queen Mary University of London, where I was a postdoc and completed my PhD on synthetic data and evaluation for longitudinal NLP, supported by the DeepMind Scholarship. 
+I currently work as an AI Scientist at Matillion, building and validating agent evaluation. Outside of work, I enjoy learning from and contributing to open science communities. I'm also an affiliated researcher at Queen Mary University of London, where I completed my PhD on synthetic data and evaluation for longitudinal NLP supported by the DeepMind Scholarship, and was a postdoc on the RAi UK Keystone project AdSoLve.
 
 Previously, I did my MSc at the University of Edinburgh, spent time in various data science/engineering roles in the industry and at NHS England, and co-led the Data Science for Mental Health Interest Group at the Alan Turing Institute. [For details, please see my CV](https://j-chim.github.io/cv/).
 
