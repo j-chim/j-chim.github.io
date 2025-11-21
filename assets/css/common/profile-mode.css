@@ -1,0 +1,82 @@
+.buttons,
+.main .profile {
+    display: flex;
+    justify-content: left;
+}
+.main .profile {
+    align-items: center;
+    min-height: calc(100vh - var(--footer-height) - (var(--gap) * 2));
+    font-size: var(--homesize);
+    line-height: var(--lineheight);
+    padding: var(--gap);
+}
+
+.profile .profile_inner {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.profile .profile_inner h1 {
+    font-size: 2.5rem;
+}
+
+.profile-subtitle {
+    font-size: 1.1rem;
+    font-weight: 350;
+    line-height: 1.5;
+}
+
+.profile-subtitle b,
+.profile-subtitle strong {
+    font-weight: 500;
+}
+
+.profile-bio {
+    font-size: .9rem;
+    line-height: 1.6;
+    padding-bottom: 2px;
+}
+
+.profile .profile_inner a {
+    color: #5B9BD5;
+    text-decoration: underline;
+}
+
+.profile .profile_inner a:hover {
+    color: #4A7BA7;
+}
+
+.profile .profile_inner .social-icons a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.profile .profile_inner .social-icons a:hover {
+    color: var(--secondary);
+}
+
+.profile img {
+    border-radius: 50%;
+    border: 1px solid var(--tertiary);
+}
+
+.buttons {
+    flex-wrap: wrap;
+}
+
+.button {
+    background: var(--tertiary);
+    border-radius: var(--radius);
+    margin: 6px 12px 6px 0px;
+    padding: 10px;
+}
+
+.button-inner {
+    padding: 0 8px;
+}
+
+.button:hover {
+    background: var(--lightcolor);
+}

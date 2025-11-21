@@ -1,0 +1,79 @@
+baseURL: "https://j-chim.github.io/" 
+title: Jenny Chim's Homepage
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+
+params:
+    description: "This is Jenny Chim's homepage."
+    author: Jenny Chim
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: []
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Jenny Chim
+          subtitle: "Hi! I am an applied researcher working in AI with a focus on NLP. My interests are in **evaluation** and, more broadly, developing **human-centered technologies** that can **expand how we interact with information** and **enrich how we think, learn, and collaborate**."
+          bio: |
+            I currently work as an AI Scientist at Matillion, building and validating agent evaluation. Outside of work, I enjoy learning from and contributing to open science communities. I'm also an affiliated researcher at Queen Mary University of London, where I completed my PhD on synthetic data and evaluation for longitudinal NLP supported by the DeepMind Scholarship, and was a postdoc on the RAi UK Keystone project AdSoLve.<br><br>
+            Previously, I did my MSc at the University of Edinburgh, spent time in various data science/engineering roles in the industry and at NHS England, and co-led the Data Science for Mental Health Interest Group at the Alan Turing Institute. For details, [please see my CV](/cv.pdf).
+          imageUrl: "picture.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:c.chim@qmul.ac.uk
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?hl=en&user=Kuhep28AAAAJ
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Moritz-Maria von Igelfeld"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
