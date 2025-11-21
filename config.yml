@@ -51,10 +51,13 @@ params:
     socialIcons:
         - name: CV
           url: cv.pdf
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/jennycwchim
         - name: Email
           url: mailto:c.chim@qmul.ac.uk
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=Kuhep28AAAAJ
+        
 
     assets:
         disableScrollBarStyle: true
